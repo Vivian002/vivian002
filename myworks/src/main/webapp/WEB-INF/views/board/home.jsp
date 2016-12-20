@@ -7,7 +7,7 @@
 <body>
 <h1>
 	Hello world! home test!!<br><br>
-	<a href="board/home.jsp">link!!</a>
+	<a href="/myworks/home.jsp">link!!</a>
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
