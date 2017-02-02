@@ -8,7 +8,7 @@
 <h1>
 	Hello world! home test!!<br><br>
 	<a href="../board/list.jsp">link!!</a>
-	<p>¾ÆÀÚ¾ÆÀÚ Èû³»ÀÚ!!</p>
+	<p>ì•„ìì•„ì í˜ë‚´ì!! ë‹¤ì‹œí•œë²ˆ ìˆ˜ì •</p>
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
